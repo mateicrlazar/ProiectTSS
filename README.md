@@ -1,2 +1,0 @@
-# ProiectTSS
-Proiect TSS
